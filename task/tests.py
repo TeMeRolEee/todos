@@ -1,1 +1,2 @@
 from tests.category_tests import GetCategoryTestCase, PostCategoryTestCase, PutCategoryTestCase, DeleteCategoryTestCase
+from tests.task_tests import GetTaskTestCase, PostTaskTestCase, PutTaskTestCase, DeleteTaskTestCase
